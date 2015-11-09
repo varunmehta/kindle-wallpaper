@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<svg width="600" height="800" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="602" height="802" id="canvas_background" fill="#ffffff"/>
+ </g>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <text font-weight="bold" stroke="#000" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="26" id="svg_1" y="239.5" x="7" stroke-width="0" fill="#000000">DAY_0_DATE</text>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="272.501566" x2="484.634969" y1="272.501566" x1="115.365051" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="560.500234" x2="600.13496" y1="560.500234" x1="-0.134979" fill="none"/>
+  <g stroke="null" id="svg_10" transform="scale(2.05)">
+   DAY_0_ICON
+  </g>
+  <g stroke="null" id="svg_71" transform="translate(340,280)">
+    DAY_1_ICON
+  </g>
+  <g stroke="null" id="svg_86">
+   <path id="svg_83" fill="#000000" d="m172.481232,618.368408c-1.783066,0 -3.273926,1.426819 -3.273926,3.2099c0,0.780029 0.373901,1.560425 0.834396,2.118469c0.043365,1.424622 0,2.855225 0,4.365479l-2.182709,0.064209l-84.22715,0l0,8.217285c0.391678,0.646606 1.29393,1.685913 2.246895,2.953064c0.95298,1.267151 1.963692,2.730835 2.632111,4.301208c1.291405,1.986877 1.283951,101.624695 1.283951,101.624695c0,0 0.09874,10.259705 4.172791,10.400085l42.948303,-0.256653c-0.121048,-1.975037 0.296616,-3.328857 0.962936,-4.301392c-1.455139,-2.200195 -2.311218,-4.808533 -2.311218,-7.639465c0,-7.684326 6.246521,-13.930908 13.93103,-13.930908c1.349014,0 2.617279,0.218811 3.851807,0.577759l8.15303,-85.125854c0.075821,-0.135071 0.121597,-0.252441 0.192688,-0.385193l2.054337,0l0,-4.108704l4.10849,0c0,0 6.97702,0.096069 7.125961,-11.427185l0,-5.392578c0.460648,-0.558105 0.706223,-1.274292 0.706223,-2.054321c0,-1.783081 -1.426865,-3.2099 -3.209946,-3.2099l0,0zm-0.064163,0.320984c1.086319,0 1.990173,0.90387 1.990173,1.990112c0,1.086243 -0.903854,1.925964 -1.990173,1.925964c-1.086136,0 -1.925812,-0.839722 -1.925812,-1.925964c0,-1.086243 0.839676,-1.990112 1.925812,-1.990112z"/>
+   <path id="svg_84" fill="#000000" d="m170.558762,624.424927c0.792709,1.895203 1.897598,-0.798462 2.690216,1.096863l31.748276,75.792175c0.792694,1.895203 0.795013,1.889465 2.690247,1.096924l5.680664,-2.390015l-33.341614,-79.579285l-3.787109,1.593323l-1.534164,-3.812012l-0.796661,-1.893555c0,0 -2.345886,0.991089 -3.78714,1.593323c-1.895248,0.792603 -1.88945,0.794983 -1.096878,2.690186c0.792679,1.895264 0.700302,1.817505 1.534164,3.812073zm0.181503,-3.210571c-0.421234,-1.001221 0.061386,-2.184875 1.062622,-2.606079c1.001236,-0.421265 2.125732,0.086243 2.546967,1.087463c0.421249,1.001221 -0.0271,2.10083 -1.02832,2.522095c-1.001221,0.421265 -2.160034,-0.002197 -2.581268,-1.003479z"/>
+   <path id="svg_85" fill="#000000" d="m162.647247,743.428772c0,7.129272 -5.779358,12.90863 -12.908585,12.90863c-7.129227,0 -12.908585,-5.779358 -12.908585,-12.90863c0,-7.129211 5.779358,-12.908569 12.908585,-12.908569c7.129227,0 12.908585,5.779358 12.908585,12.908569z"/>
+  </g>
+  <text font-weight="bold" stroke="#000" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="20" id="svg_87" y="787.500234" x="120.257828" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Today</text>
+  <text font-weight="bold" stroke="#000" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="20" id="svg_88" y="784.500234" x="391.782623" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Tomorrow</text>
+  <g stroke="null" id="svg_156">
+   <g stroke="null" transform="matrix(1.7452868079692143,0,0,1.7452868079692143,-555.6739641753439,-97.06512265835295) " id="svg_147">
+    <polygon stroke="null" id="svg_148" points="558.6869506835938,461.03261613845825 532.0640258789062,447.9506154060364 532.0640258789062,473.9946217536926 572.2039794921875,493.4806447029114 572.2039794921875,442.3376393318176 "/>
+    <polygon stroke="null" id="svg_149" points="520.2760009765625,441.3896412849426 532.0980224609375,422.9446949958801 572.2360229492188,440.8706593513489 558.3369750976562,460.0966420173645 "/>
+    <polygon stroke="null" id="svg_150" points="590.197998046875,414.5757374763489 572.6419677734375,408.42873430252075 532.8939819335938,422.40871477127075 551.02099609375,430.4506764411926 "/>
+    <polygon stroke="null" id="svg_151" points="591.31396484375,414.96572160720825 551.968994140625,430.871666431427 572.6419677734375,440.0426564216614 612.29296875,422.3116993904114 "/>
+    <polygon stroke="null" id="svg_152" points="613.9769897460938,423.0216908454895 619.9409790039062,434.2456593513489 613.9769897460938,431.9846730232239 "/>
+    <path stroke="null" id="svg_153" d="m597.796997,429.866699l0.143982,10.905945l-1.380005,-1.655975l-2.226013,3.26297l-1.867004,-1.314972l-2.80896,3.603973l-0.433044,-10.975983l-16.242981,7.253998l0,52.533997l40.138977,-19.486023l0,-50.972931l-15.324951,6.845001zm1.137939,17.805939c1.135071,-0.515991 1.845032,-0.309998 2.141052,0.609985l0.662964,2.037994l0.940002,-1.037994c0.153015,-0.143982 0.223022,-0.211975 0.207031,-0.204987c0.098022,-0.04599 0.140015,0.040009 0.125,0.261017c-0.015015,0.182983 -0.059998,0.376984 -0.137024,0.579987l-2.320984,5.894012l-4.192017,1.64798c-0.167969,0.060028 -0.245972,-0.006989 -0.230957,-0.195984c0.010986,-0.153015 0.05896,-0.275024 0.142944,-0.365997l0.848999,-0.957031l-0.862976,-2.73999c-0.466003,-1.479004 -0.960999,-2.41098 -1.487,-2.789978c-0.22699,-0.171021 -0.669983,-0.247009 -1.336975,-0.230011l5.499939,-2.509003zm-13.908936,23.007996c-0.169006,-0.360992 -0.237976,-0.733002 -0.21405,-1.109985c0.029053,-0.419006 0.218018,-1.032013 0.563049,-1.83902l1.228943,-2.815979l-0.953979,-0.303009c-0.132935,-0.050018 -0.195007,-0.109009 -0.190979,-0.175995c0.020996,-0.296021 0.142029,-0.507019 0.363037,-0.634003l4.786987,-2.59201l1.699951,4.347015c0.059021,0.169983 0.087036,0.30899 0.078003,0.426971c-0.010986,0.180023 -0.098938,0.313019 -0.254944,0.39801l-0.884033,-0.291992l-2.789001,6.588989c-0.411011,0.957001 -0.642029,1.828003 -0.697021,2.609009c-0.029968,0.436005 -0.02301,0.877014 0.02002,1.322998l-2.755981,-5.931zm9.501038,3.677002l-4.927063,2.924988c-0.880005,0.522003 -1.255981,-0.158997 -1.124023,-2.044983c0.048035,-0.700012 0.222046,-1.457001 0.51709,-2.270996c0.18396,-0.505005 0.615967,-1.520996 1.296936,-3.03299l4.729004,-2.628021l-0.491943,7.052002zm-1.77002,-13.319l-4.017029,-1.828003l2.867981,-6.681c0.260986,-0.612 0.717041,-1.070007 1.367004,-1.367981c1.065002,-0.490997 1.955017,0.560974 2.674988,3.125977l-2.892944,6.751007zm8.772949,8.195007c-0.315002,0.881989 -0.800964,1.515991 -1.458984,1.906006l-1.820007,1.079987l-0.112976,1.647003c-0.01001,0.139008 -0.078003,0.269012 -0.20105,0.391998c-0.127014,0.14801 -0.261902,0.089996 -0.398987,-0.171997l-1.878967,-3.571991l2.502991,-6.511993c0.049988,-0.123016 0.122986,-0.210999 0.220032,-0.263c0.130981,-0.070007 0.181946,0.087982 0.153992,0.475983l-0.070007,0.993988l3.254944,-1.802979c0.736023,-0.410004 1.30603,-0.820007 1.712036,-1.233002c0.505005,-0.51001 0.987,-1.229004 1.44397,-2.152008l-3.346985,9.212006zm3.491028,-11.257996c-0.049011,0.677979 -0.346008,1.450989 -0.89502,2.333008c-0.520996,0.840973 -1.005981,1.388977 -1.455994,1.63797l-1.910034,1.048004l-1.936951,-4.368988l4.190979,-5.388l1.86499,3.924988c0.117981,0.230011 0.166016,0.502014 0.142029,0.813019z"/>
+   </g>
+  </g>
+  <line fill="none" stroke-width="0.5" stroke-opacity="null" fill-opacity="null" x1="300" y1="592.502544" x2="300" y2="770.495904" id="svg_12" stroke-linejoin="null" stroke-linecap="null" stroke="#000"/>
+  <g id="svg_7">
+   <text stroke="#000" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="125" id="svg_34" y="146.500722" x="393.014251" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" font-style="normal" font-weight="bold">CURRENT_TEMP</text>
+   <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="523.869879" y="88.509386" id="svg_14" font-size="60" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" text-anchor="left" xml:space="preserve" font-weight="bold">&#176;C</text>
+  </g>
+  <g id="svg_8">
+   <text stroke="#000" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="50" id="svg_39" y="219.019946" x="393.009861" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" font-weight="bold">DAY_0_HIGH&#176;</text>
+   <text stroke="#000" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="50" id="svg_21" y="219.019993" x="501.011869" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" font-weight="bold">DAY_0_LOW&#176;</text>
+   <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="227.265625" x2="478.007813" y1="177.265625" x1="478.007813" stroke="#000" fill="none"/>
+  </g>
+  <text font-weight="bold" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_11" y="116.5" x="210" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">CURRENT_CODE</text>
+  <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="12" id="svg_13" y="13.5" x="430" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">LAST_UPDATED</text>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_17" y2="354.265625" x2="300" y1="304.265625" x1="300" stroke="#000" fill="none" stroke-width="0.5"/>
+  <line stroke="#000" fill="none" stroke-opacity="null" fill-opacity="null" x1="-1.673248" y1="394.5" x2="601.673267" y2="394.5" id="svg_5" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="143.25" y="361.5" id="svg_6" font-size="20" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" text-anchor="left" xml:space="preserve" font-weight="bold">DAY_1_CODE_TEXT</text>
+  <g id="svg_18" stroke="null">
+   <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="32" id="svg_15" y="330.262134" x="126.009861" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" font-weight="bold" stroke="#000">DAY_1_HIGH&#176;</text>
+   <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="32" id="svg_16" y="330.26218" x="184.011869" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" font-weight="bold" stroke="#000">DAY_1_LOW&#176;</text>
+  </g>
+  <g stroke="null" id="svg_73" transform="translate(10,280)">
+    DAY_2_ICON
+  </g>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="493.25" y="361.5" id="svg_74" font-size="20" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" text-anchor="left" xml:space="preserve" font-weight="bold">DAY_2_CODE_TEXT</text>
+  <g id="svg_77" stroke="null">
+   <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="32" id="svg_75" y="330.262134" x="476.009861" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" font-weight="bold" stroke="#000">DAY_2_HIGH&#176;</text>
+   <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="32" id="svg_76" y="330.26218" x="534.011869" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" font-weight="bold" stroke="#000">DAY_2_LOW&#176;</text>
+  </g>
+  <text stroke="#000" transform="matrix(33.20000076293945,0,0,2.9506173133850098,-1239.700029373169,-819.2592716217041) " xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_79" y="451.5" x="38.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_81" y="434.5" x="123.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">09:00</text>
+  <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_82" y="434.5" x="210.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Tanvi Day Off</text>
+  <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_89" y="434.5" x="4.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Nov, 07</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_92" y="485.5" x="123.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">10:30</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_93" y="485.5" x="210.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Dia's Shots</text>
+  <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_94" y="485.5" x="4.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Nov, 08</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_95" y="535.5" x="123.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">10:30</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_96" y="535.5" x="210.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Tanvi's Shots</text>
+  <text xml:space="preserve" text-anchor="left" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="30" id="svg_97" y="535.5" x="4.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Nov, 08</text>
+ </g>
+</svg>
