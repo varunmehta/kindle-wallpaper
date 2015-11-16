@@ -25,7 +25,7 @@ def parse_forecast(forecast, day, svg):
     date = forecast.getAttribute('date')
     fday = forecast.getAttribute('day')
     code_text = forecast.getAttribute('text')
-    image_url = '../icons/' + image + '.svg'
+    image_url = 'icons/' + image + '.svg'
 
     # Read icon (Just the path line)
     f = codecs.open(image_url, 'r', encoding='utf-8')
@@ -48,7 +48,7 @@ weather_xml = urllib2.urlopen(WEATHER_URL).read()
 dom = minidom.parseString(weather_xml)
 
 # Open SVG to process
-template = codecs.open('../icons/kindle-display.svg', 'r', encoding='utf-8').read()
+template = codecs.open('icons/kindle-display.svg', 'r', encoding='utf-8').read()
 
 # <yweather:condition text="Fair" code="33" temp="15" date="Mon, 02 Nov 2015 5:49 pm EST"/>
 current = dom.getElementsByTagName('yweather:condition')[0]
