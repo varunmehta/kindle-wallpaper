@@ -1,15 +1,15 @@
-Kindle weather and calendar displayer
-====================================
+Kindle Weather and Calendar displayer
+=====================================
 
-Author: Pablo Jiménez Mateo
+Author: Varun Mehta
 
-![ScreenShot](https://raw.github.com/gef3233/kindle-wallpaper/master/with_kindle.JPG)
+This program will display the weather and some task to do retrieved from Yahoo Weather and Google calendar!
 
-Do you use a Kindle and hope that the wallpapers could be more useful? Well, that has just changed,
-with this program you will display the weather and some task to do retrieved from Yahoo Weather
-and Google calendar!
+You can see a preview in the preview.png file.
 
-You can see a preview in the preview.png file
+The icons have been derived from: https://erikflowers.github.io/weather-icons/
+ 
+Converted from CSS to SVG using https://icomoon.io/app
 
 Based on the idea of Matthew Petroff: http://www.mpetroff.net/archives/2012/09/14/kindle-weather-display/
 
@@ -28,7 +28,7 @@ and enabled the "screensavers" folder (http://www.gadget-reviews.me/2012/02/how-
 Setup
 -------------
 
-### In the Kindle
+### kindle
 
 - Move the file kindle/launch.sh to /mnt/us/launch.sh and add rights
 ```bash
@@ -46,7 +46,7 @@ Setup
     50 6 * * * /mnt/us/launch.sh
 ```
 
-### In the server
+### Raspberry Pi
 
 You must edit the following files:
 
@@ -70,7 +70,7 @@ http://weather.yahoo.com/spain/valencia/castello-de-la-plana-756804/
 
 You may need to change your path if you are not using the default yourserver/kindle structure.
 
-**General configuration**
+**General Configuration**
 
 Finally you should create a folder in your webserver readable by your kindle when trying to download it (In this example would be yourserver/kindle):
 
