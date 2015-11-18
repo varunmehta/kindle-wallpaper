@@ -1,16 +1,19 @@
 import codecs
 import datetime
-import urllib
+import urllib.request
 from datetime import timedelta
 
 from icalendar import Calendar
 
 # Your private ical URL, if you don't know what to do here, read the README
-ICAL_URL = ""
+ICAL_URL = "http://p01-calendarws.icloud.com/ca/subscribe/1/cSuug_LqV6mecs7xCB9bZMYbbct5Ku7UnJIAUVdT95xzgP11ktia4bVG9F0yvOhK5TsfxLa5eTJjSf_-D7GKwzxhWCMJM71ZkBMZlfmftC4"
 
-urllib.urlretrieve(ICAL_URL, "basic.ics")
+urllib.request.urlretrieve(ICAL_URL,
+                           "n-l4Kk8oivJ9puevix43GpIGE6PkvulFd1CuJlwH3j59Ak-JOdSYumrusS3Ts2ScuXisjerF4jL1L_GKXE0gquoyNz7r2rhwwN4rDxd5gqY.ics")
 
-cal = Calendar.from_ical(open('basic.ics', 'rb').read())
+cal = Calendar.from_ical(open(
+    'n-l4Kk8oivJ9puevix43GpIGE6PkvulFd1CuJlwH3j59Ak-JOdSYumrusS3Ts2ScuXisjerF4jL1L_GKXE0gquoyNz7r2rhwwN4rDxd5gqY.ics',
+    'rb').read())
 
 all_day_events = []
 normal_events = []
@@ -18,7 +21,7 @@ normal_events = []
 for component in cal.walk('vevent'):
 
     # Because of timezone
-    delta = timedelta(hours=3)
+    delta = timedelta(hours=0.0)
 
     date_start = component['DTSTART'].dt + delta
 

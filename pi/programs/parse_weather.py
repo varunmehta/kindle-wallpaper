@@ -1,5 +1,5 @@
 import codecs
-import urllib2
+import urllib.request
 from xml.dom import minidom
 
 # Code of my city, if you don't know what to do here, read the README
@@ -36,7 +36,7 @@ def parse_forecast(forecast, day, svg):
 
 
 def parse_code(code):
-    image_url = 'icons/' + code_to_image(code) + '.svg'
+    image_url = '../icons/' + code_to_image(code) + '.svg'
 
     # Read icon (Just the path line)
     f = codecs.open(image_url, 'r', encoding='utf-8')
@@ -61,7 +61,7 @@ def code_to_image(code):
         img = 'hurricane'
     elif code == 3 or code == 4:
         img = 'thunderstorm'
-    elif code == 5 or code == 6 or code == 7:
+    elif code == 5 or code == 6 or code == 7 or code == 18 or code == 35:
         img = 'rain-mix'
     elif code == 8 or code == 10 or code == 17:
         img = 'hail'
@@ -73,8 +73,6 @@ def code_to_image(code):
         img = 'day-snow'
     elif code == 15 or code == 41 or code == 43:
         img = 'snow-wind'
-    elif code == 18 or code == 35:
-        img = 'rain-mix'
     elif code == 19:
         img = 'dust'
     elif code == 20:
@@ -110,12 +108,12 @@ def code_to_image(code):
 
 
 # ** Main Program **
-weather_xml = urllib2.urlopen(WEATHER_URL).read()
+weather_xml = urllib.request.urlopen(WEATHER_URL).read()
 print(WEATHER_URL)
 dom = minidom.parseString(weather_xml)
 
 # Open SVG to process
-template = codecs.open('icons/kindle-display.svg', 'r', encoding='utf-8').read()
+template = codecs.open('../icons/kindle-display.svg', 'r', encoding='utf-8').read()
 
 # <yweather:condition text="Fair" code="33" temp="15" date="Mon, 02 Nov 2015 5:49 pm EST"/>
 current = dom.getElementsByTagName('yweather:condition')[0]
